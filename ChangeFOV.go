@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "ReadWriteMemory"
+    "github.com/H3nr1X/ReadWriteMemory"
     "log"
 )
 const (
